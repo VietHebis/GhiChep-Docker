@@ -1,7 +1,1 @@
-# CONTAINER
 
-# Liệt kê số lượng container dang chạy trên host:
-docker ps
-
-# Thêm tham số -a để liệt kê các container đang có trên host (bao gồm cả chạy và đang dừng) 
-docker ps -a 
